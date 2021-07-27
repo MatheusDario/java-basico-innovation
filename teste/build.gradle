@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'one.innovation.digital'
+group 'org.example'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -16,6 +16,5 @@ dependencies {
 
 test {
     useJUnitPlatform()
-
 }
-System.out.println("Aula de Java".split(" "));
+
