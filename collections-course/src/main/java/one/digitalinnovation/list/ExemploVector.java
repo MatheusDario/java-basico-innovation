@@ -19,7 +19,7 @@ public class ExemploVector {
         esportes.remove(2);
         System.out.println(esportes);
 
-        esportes.remove("Basquete");
+        esportes.remove("Tenis de mesa");
 
         System.out.println(esportes.get(0));
 
